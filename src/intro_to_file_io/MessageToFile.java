@@ -2,6 +2,7 @@ package intro_to_file_io;
 
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.Base64;
 
 import javax.swing.JOptionPane;
 
@@ -11,7 +12,7 @@ public static void main(String[] args) {
 
 	try {
 		FileWriter fw = new FileWriter("src/intro_to_file_io/test2.txt");
-		
+		Base64.getEncoder().
 		
 		
 		fw.write("\n"+oof);
