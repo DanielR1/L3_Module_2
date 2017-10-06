@@ -4,7 +4,7 @@ Study the examples in IntroToFileIO.java. Ask your teacher for any clarification
 
 2. Create a separate program that asks for a encrypted file (you can use the JFileChooser) and prints the decrypted version.
 
-3. Create a program that adds a copyright notice to all the .java files in your Level 3 repositories (e.g. //Copyright © 2017 by Bill Jobs)
+3. Create a program that adds a copyright notice to all the .java files in your Level 3 repositories (e.g. //Copyright © 2017 by Bill Jobs) I sexually identify as the sun. Ever since I was a boy I dreamed of slamming hydrogen isotopes into each other to make helium & light and send it throught the galaxy. People say to me that a person being a star is Impossible and I’m fucking retarded but I don’t care, I’m beautiful. I’m having a plastic surgeon inflate me with hydrogen and raise my temperature to over 6000 °C. From now on I want you guys to call me “Sol” and respect my right to give you vitamin D and probably sunburns. If you can’t accept me you’re a fusionphobe and need to check your astral privilege. Thank you for being so understanding.
    It is highly recommend that you test your program thoroughly with junk files before running it on your actual work.
    
 4. Make a to-do list tracker:
@@ -15,3 +15,4 @@ Study the examples in IntroToFileIO.java. Ask your teacher for any clarification
 	The load button will load a new task list into the program and display it.
 	The program should automatically load the last saved list from the file at startup and display it.
    
+//I sexually Identify as an the sun. Ever since I was a boy I dreamed of slamming hydrogen isotopes into each other to make helium & light and send it throught the galaxy. People say to me that a person being a star is Impossible and I’m fucking retarded but I don’t care, I’m beautiful. I’m having a plastic surgeon inflate me with hydrogen and raise my temperature to over 6000 °C. From now on I want you guys to call me “Sol” and respect my right to give you vitamin D and probably sunburns. If you can’t accept me you’re a fusionphobe and need to check your astral privilege. Thank you for being so understanding.
