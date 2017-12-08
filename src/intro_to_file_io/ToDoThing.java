@@ -115,6 +115,8 @@ public class ToDoThing implements ActionListener {
 			}
 		}
 		if (e.getSource().equals(button4)) {
+			list.clear();
+			label.setText("<html>");
 			 choose=new JFileChooser();
 			 choose.showOpenDialog(frame);
 			 File chosen = choose.getSelectedFile();
